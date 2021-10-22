@@ -4,47 +4,76 @@ open-source personal viewing order for all MCU properties
 - Phase 1
 	- **Iron Man** (2008)
 	- **The Incredible Hulk** (2008)
+	- The Consultant (2011) [<span style="color:grey">One-Shot</span>]
 	- **Iron Man 2** (2010)
-	- *The Consultant* (2011) [<span style="color:cyan">One-Shot</span>]
-	- *A Funny Thing Happened on the Way to Thor's Hammer* (2011) [<span style="color:cyan">One-Shot</span>]
+	- A Funny Thing Happened on the Way to Thor's Hammer (2011) [<span style="color:grey">One-Shot</span>]
 	- **Thor** (2011)
 	- **Captain America: The First Avenger** (2011)
 	- **Marvel's The Avengers** (2012)
-	- *Item 47* (2012) [<span style="color:cyan">One-Shot</span>]
+	- Item 47 (2012) [<span style="color:grey">One-Shot</span>]
 
 - Phase 2
-	- *Agent Carter* (2013)
+	- Agent Carter (2013) [<span style="color:grey">One-Shot</span>]
 	- **Iron Man 3** (2013)
-	- *All Hail the King* (2014) [<span style="color:cyan">One-Shot</span>]
-	- Marvel's Agents of S.H.I.E.L.D. (2013) [S01E01 to S01E07] [<span style="color:gold">ABC</span>]
+	- All Hail the King (2014) [<span style="color:grey">One-Shot</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S01E01 to S01E07} [<span style="color:gold">ABC</span>]
 	- **Thor: The Dark World** (2013)
-	- Marvel's Agents of S.H.I.E.L.D. (2013) [S01E08 to S01E16] [<span style="color:gold">ABC</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S01E08 to S01E16} [<span style="color:gold">ABC</span>]
 	- **Captain America: The Winter Soldier** (2014)
-	- Marvel's Agents of S.H.I.E.L.D. (2013) [S01E16 to S02E02]  [<span style="color:gold">ABC</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S01E16 to S02E02}  [<span style="color:gold">ABC</span>]
 	- **Guardians of the Galaxy** (2014)
-	- Daredevil (2015) [<span style="color:red">Netflix</span>]
-	- Jessica Jones (2015) [<span style="color:red">Netflix</span>]
+	- Daredevil (2015) {S01} [<span style="color:red">Netflix</span>]
+	- Jessica Jones (2015) {S01} [<span style="color:red">Netflix</span>]
 	- **Avengers: Age of Ultron** (2015)
 	- **Ant-Man** (2015)
+	- Daredevil (2015) {S02} [<span style="color:red">Netflix</span>]
 
 - Phase 3
-	- **Captain America: Civil War** ()
-	- **Doctor Strange** ()
-	- **Guardians of the Galaxy Vol. 2** ()
-	- **Spider-Man: Homecoming** ()
-	- **Thor: Ragnarok** ()
+	- **Captain America: Civil War** (2016)
+	- **Doctor Strange** (2016)
+	- Luke Cage (2017) {S01} [<span style="color:red">Netflix</span>]
+	- Iron Fist (2017) {S01} [<span style="color:red">Netflix</span>]
+	- Inhumans (2017) [<span style="color:cyan">IMAX</span>]
+	- The Punisher (2017) {S01} [<span style="color:red">Netflix</span>]
+	- **Guardians of the Galaxy Vol. 2** (2017)
+	- **Spider-Man: Homecoming** (2017)
+	- The Defenders (2017) {S01} [<span style="color:red">Netflix</span>]
+	- Cloak & Dagger (2018) {S01} [<span style="color:green">Hulu</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S04}  [<span style="color:gold">ABC</span>]
+	- Agents of S.H.I.E.L.D.: Slingshot (2016) {S01}  [<span style="color:gold">ABC</span>]
+	- Jessica Jones (2015) {S02} [<span style="color:red">Netflix</span>]
+	- Luke Cage (2017) {S02} [<span style="color:red">Netflix</span>]
+	- Daredevil (2015) {S03} [<span style="color:red">Netflix</span>]
+	- Cloak & Dagger (2018) {S03} [<span style="color:green">Hulu</span>
+	- **Thor: Ragnarok** (2017)
+	- Team Thor (2016) [<span style="color:purple">Spoof</span>]
+	- Team Thor: Part 2 (2017) [<span style="color:purple">Spoof</span>]
 	- **Black Panther** (2018)
+	- Team Darryl (2018) [<span style="color:purple">Spoof</span>]
+	- Runaways (2017) {S01} [<span style="color:green">Hulu</span>]
+	- Iron Fist (2015) {S02} [<span style="color:red">Netflix</span>]
+	- Runaways (2017) {S02} [<span style="color:green">Hulu</span>]
+	- Jessica Jones (2015) {S02} [<span style="color:red">Netflix</span>]
+	- The Punisher (2017) {S02} [<span style="color:red">Netflix</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S05}  [<span style="color:gold">ABC</span>]
 	- **Avengers: Infinity War** (2018)
 	- **Ant-Man and the Wasp** (2018)
 	- **Captain Marvel** (2019)
+	- Runaways (2017) {S03} [<span style="color:green">Hulu</span>]
+	- Marvel's Agents of S.H.I.E.L.D. (2013) {S06}  [<span style="color:gold">ABC</span>]
+	- Helstrom (2020)  [<span style="color:green">Hulu</span>]
 	- **Avengers: Endgame** (2019)
-	- **Spider-Man: Far From Home** ()
+	- Peter's To-Do List (2019)
+	- **Spider-Man: Far From Home** (2019)
 
-	
 - Phase 4
-	- ~~Helstrom (2020)~~
-	- WandaVision	(2021)
-	- The Falcon and the Winter Soldier (2021)
-	- Loki (2021)
-	- What If...? (2021)
-	- Hawkeye (2021)
+	- WandaVision (2021) [<span style="color:blue">Disney+</span>]
+	- The Falcon and the Winter Soldier (2021) [<span style="color:blue">Disney+</span>]
+	- **Black Widow** (2021)
+	- Loki (2021) [<span style="color:blue">Disney+</span>]
+	- **Shang-Chi and the Legend of the Ten Rings** (2021)
+	- What If...? (2021) [<span style="color:blue">Disney+</span>]
+	- **Eternals** (2021)
+	- Hawkeye (2021) [<span style="color:blue">Disney+</span>]
+	- **Spider-Man: No Way Home** (2021)
+	- **Doctor Strange in the Multiverse of Madness** (2022)
